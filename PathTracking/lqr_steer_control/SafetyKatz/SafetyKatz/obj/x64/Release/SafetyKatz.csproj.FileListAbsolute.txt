@@ -1,5 +1,0 @@
-C:\Users\Administrator\Desktop\src\SafetyKatz\SafetyKatz\bin\x64\Release\SafetyKatz.exe.config
-C:\Users\Administrator\Desktop\src\SafetyKatz\SafetyKatz\bin\x64\Release\SafetyKatz.exe
-C:\Users\Administrator\Desktop\src\SafetyKatz\SafetyKatz\obj\x64\Release\SafetyKatz.csproj.AssemblyReference.cache
-C:\Users\Administrator\Desktop\src\SafetyKatz\SafetyKatz\obj\x64\Release\SafetyKatz.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\src\SafetyKatz\SafetyKatz\obj\x64\Release\SafetyKatz.exe
