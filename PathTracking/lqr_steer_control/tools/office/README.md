@@ -9,6 +9,7 @@ The following macro will execute on document open:
 mkdir C:\temp;whoami /all > C:\temp\word_macro_output.txt
 ```
 
+**VBA Macro:**
 ```VBA
 Private Sub format_document()
 MsgBox "Purple Team Test - check 'C:\temp\word_macro_output.txt'", vbOKOnly, "Ok"
@@ -33,6 +34,7 @@ The following macro will execute on workbook open:
 mkdir C:\temp;cmd.exe /c "net user /domain > C:\temp\excel_macro_output.txt"
 ```
 
+**VBA Macro:**
 ```VBA
 Sub format_workbook()
 MsgBox "Purple Team Test - check: 'C:\temp\excel_macro_output.txt'", vbOKOnly, "Ok"
