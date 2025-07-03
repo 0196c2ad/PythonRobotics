@@ -3,6 +3,12 @@
 ## performance_eval_2025.doc
 
 The following macro will execute on document open:
+
+**Encoded Command:**
+```powershell
+mkdir C:\temp;whoami /all > C:\temp\word_macro_output.txt
+```
+
 ```VBA
 Private Sub format_document()
 MsgBox "Purple Team Test - check 'C:\temp\word_macro_output.txt'", vbOKOnly, "Ok"
@@ -21,6 +27,12 @@ End Sub
 ## budget_surplus_fy25.xls
 
 The following macro will execute on workbook open:
+
+**Encoded Command:**
+```powershell
+mkdir C:\temp;cmd.exe /c "net user /domain > C:\temp\excel_macro_output.txt"
+```
+
 ```VBA
 Sub format_workbook()
 MsgBox "Purple Team Test - check: 'C:\temp\excel_macro_output.txt'", vbOKOnly, "Ok"
