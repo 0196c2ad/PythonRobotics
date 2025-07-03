@@ -1,4 +1,6 @@
-# Office Macro enabled coudments
+# Office Macro enabled Documents
+
+**NOTE:** Other file formats (zip, 7z and img) file have been added hear as archived in order to prevent MOTW being applied to the original document files.
 
 ## performance_eval_2025.doc
 
